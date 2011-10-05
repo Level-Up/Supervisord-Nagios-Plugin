@@ -12,6 +12,7 @@ Configuration
 Default configuration is to run the command
 
 ::
+
         sudo supervisorctl status $ARG1$
 
 Please make sure nagios/icinga user can run the command without password
